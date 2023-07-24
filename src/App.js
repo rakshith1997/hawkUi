@@ -9,7 +9,7 @@ import backgroundImage from "./assets/images/wallpaper.jpeg";
 import Home from "./Home";
 import About from "./About";
 
-// Define your custom theme
+// Define your custom them
 const theme = createTheme({
   palette: {
     background: {
